@@ -1,0 +1,1 @@
+This assignment consisted of implementing two proctocols Alternating Bit and Go back N, so there is a folder for each implementation in C.
